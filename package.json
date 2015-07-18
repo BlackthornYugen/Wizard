@@ -1,0 +1,27 @@
+{
+  "name": "Wizard",
+  "version": "0.0.1",
+  "description": "A game based on the Wizard Card game by Ken Fisher",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BlackthornYugen/Wizard.git"
+  },
+  "keywords": [
+    "cards",
+    "game"
+  ],
+  "author": "John Steel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackthornYugen/Wizard/issues"
+  },
+  "homepage": "https://github.com/BlackthornYugen/Wizard",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
